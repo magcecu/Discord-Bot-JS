@@ -1,0 +1,6 @@
+1. open your cmd and select your path via cd...
+Now type the following:
+2. npm i discord.js
+3. npm innit
+type what you want to 
+4. you are ready to begin adding commands
